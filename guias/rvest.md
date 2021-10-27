@@ -1640,5 +1640,3 @@ selecciona un botón en función de su posición relativa.
 
 -   [Package `rvest`. Nuevas funciones en
     desarrollo.](https://rvest.tidyverse.org/news/index.html)
-
-## [Guía para el segundo encuentro (29/07)](https://github.com/agusnieto77/TalleR/blob/main/encuentros/Segundo_encuentro_1.md)
